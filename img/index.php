@@ -112,7 +112,7 @@
             <p>Here you can check out our popular recipies !! Eat healthy, stay healthy..</p>
         </div>
         <div class="row mx-auto container-fluid">
-            <div onclick="window.location.href='biryani.html';" class="product text-center col-lg-3 col-md-4 col-12 ">
+            <div onclick="window.location.href='recipes/biryani.php';" class="product text-center col-lg-3 col-md-4 col-12 ">
                 <img class="img-fluid mb-3" src="chicken_biryani.jpg" alt=""
                     style="height: 400px;width: 400px; border-radius: 20px;">
                 <div class="star">
@@ -127,7 +127,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='momo.html';" class="product text-center col-lg-3 col-md-4 col-12 ">
+            <div onclick="window.location.href='recipes/momo.php';" class="product text-center col-lg-3 col-md-4 col-12 ">
                 <img class="img-fluid mb-3" src="momo.jpg" alt=""
                     style="height: 400px;width: 400px;  border-radius: 20px;">
                 <div class="star">
@@ -142,7 +142,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='sushi.html';" class="product text-center col-lg-3 col-md-4 col-12 ">
+            <div onclick="window.location.href='recipes/sushi.php';" class="product text-center col-lg-3 col-md-4 col-12 ">
                 <img class="img-fluid mb-3" src="sushi.jpg" alt=""
                     style="height: 400px;width: 400px; border-radius: 20px;">
                 <div class="star">
@@ -157,7 +157,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='lobster.html';" class="product text-center col-lg-3 col-md-4 col-12 ">
+            <div onclick="window.location.href='recipes/lobster.php';" class="product text-center col-lg-3 col-md-4 col-12 ">
                 <img class="img-fluid mb-3" src="lobster.jpg" alt=""
                     style="height: 400px;width: 400px; border-radius: 20px;">
                 <div class="star">
@@ -192,7 +192,7 @@
             <p>Here you can check out our popular veg items !!</p>
         </div>
         <div class="row mx-auto container-fluid">
-            <div onclick="window.location.href='idle.html'" class="product text-center col-lg-3 col-md-4 col-12 ">
+            <div onclick="window.location.href='recipes/idle.php'" class="product text-center col-lg-3 col-md-4 col-12 ">
                 <img class="img-fluid mb-3" src="idle.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
                 <div class="star">
@@ -207,7 +207,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='pasta.html'" class="product text-center col-lg-3 col-md-4 col-12 ">
+            <div onclick="window.location.href='recipes/pasta.php'" class="product text-center col-lg-3 col-md-4 col-12 ">
                 <img class="img-fluid mb-3" src="pasta.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
                 <div class="star">
@@ -222,7 +222,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='dhosha.html'" class="product text-center col-lg-3 col-md-4 col-12 ">
+            <div onclick="window.location.href='recipes/dhosha.php'" class="product text-center col-lg-3 col-md-4 col-12 ">
                 <img class="img-fluid mb-3" src="dhosha.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
                 <div class="star">
@@ -237,7 +237,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='mixed_salad.html'"
+            <div onclick="window.location.href='recipes/mixed_salad.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 ">
                 <img class="img-fluid mb-3" src="mixed salad.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
@@ -265,7 +265,7 @@
             <p>Here you can check out our sweet recipies !!</p>
         </div>
         <div class="row mx-auto container-fluid">
-            <div onclick="window.location.href='modak.html'" class="product text-center col-lg-3 col-md-4 col-12 ">
+            <div onclick="window.location.href='recipes/modak.php'" class="product text-center col-lg-3 col-md-4 col-12 ">
                 <img class="img-fluid mb-3" src="modak.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
                 <div class="star">
@@ -280,7 +280,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='gajar_ka_halwa.html'"
+            <div onclick="window.location.href='recipes/gajar_ka_halwa.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 ">
                 <img class="img-fluid mb-3" src="gajar ka halwa.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
@@ -296,7 +296,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='kheer.html'" class="product text-center col-lg-3 col-md-4 col-12 ">
+            <div onclick="window.location.href='recipes/kheer.php'" class="product text-center col-lg-3 col-md-4 col-12 ">
                 <img class="img-fluid mb-3" src="kheer.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
                 <div class="star">
@@ -311,7 +311,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='pancake.html'" class="product text-center col-lg-3 col-md-4 col-12 ">
+            <div onclick="window.location.href='recipes/pancake.php'" class="product text-center col-lg-3 col-md-4 col-12 ">
                 <img class="img-fluid mb-3" src="pan cake.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
                 <div class="star">

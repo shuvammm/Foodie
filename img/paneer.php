@@ -85,7 +85,7 @@
     <section id="clothes" class="my-5 "> <!--couple watchess----------------------------------->
 
         <div id="myProducts" class="row mx-auto container-fluid row">
-            <div onclick="window.location.href='paneerkorma.html'"
+            <div onclick="window.location.href='recipes/paneerkorma.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card">
                 <img class="img-fluid mb-3" src="panner.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
@@ -101,7 +101,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='paneertikka.html'"
+            <div onclick="window.location.href='recipes/paneertikka.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card ">
                 <img class="img-fluid mb-3" src="Fish/panner_tikka.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
@@ -117,7 +117,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='paneerbutter.html'"
+            <div onclick="window.location.href='recipes/paneerbutter.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card">
                 <img class="img-fluid mb-3" src="Fish/panner_butter_masala.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
@@ -133,7 +133,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='paneerpasanda.html'"
+            <div onclick="window.location.href='recipes/paneerpasanda.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card ">
                 <img class="img-fluid mb-3" src="paneerpasanda.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
@@ -178,10 +178,10 @@
             <div class="footer-one col-lg-3 col-md-6 col-12 mb-3">
                 <h5 class="pb-2">Featured</h5>
                 <ul class="text-uppercase list-unstyled">
-                    <li><a href="paneer.html">Panner</a></li>
-                    <li><a href="chicken.html">Chicken</a></li>
-                    <li><a href="fish.html">Fish</a></li>
-                    <li><a href="shop.html">Exlpore More</a></li>
+                    <li><a href="paneer.php">Panner</a></li>
+                    <li><a href="chicken.php">Chicken</a></li>
+                    <li><a href="fish.php">Fish</a></li>
+                    <li><a href="shop.php">Exlpore More</a></li>
 
                 </ul>
             </div>

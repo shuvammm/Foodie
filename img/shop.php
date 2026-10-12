@@ -99,7 +99,7 @@
     <section id="clothes" class="my-5 "> <!--couple watchess----------------------------------->
 
         <div id="myProducts" class="row mx-auto container-fluid row">
-            <div onclick="window.location.href='idle.html'" class="product text-center col-lg-3 col-md-4 col-12 card">
+            <div onclick="window.location.href='recipes/idle.php'" class="product text-center col-lg-3 col-md-4 col-12 card">
                 <img class="img-fluid mb-3" src="idle.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
                 <div class="star">
@@ -114,7 +114,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='pasta.html'" class="product text-center col-lg-3 col-md-4 col-12 card ">
+            <div onclick="window.location.href='recipes/pasta.php'" class="product text-center col-lg-3 col-md-4 col-12 card ">
                 <img class="img-fluid mb-3" src="pasta.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
                 <div class="star">
@@ -129,7 +129,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='dhosha.html'" class="product text-center col-lg-3 col-md-4 col-12 card">
+            <div onclick="window.location.href='recipes/dhosha.php'" class="product text-center col-lg-3 col-md-4 col-12 card">
                 <img class="img-fluid mb-3" src="dhosha.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
                 <div class="star">
@@ -144,7 +144,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='mixed_salad.html'"
+            <div onclick="window.location.href='recipes/mixed_salad.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card ">
                 <img class="img-fluid mb-3" src="mixed salad.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
@@ -160,7 +160,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='biryani.html';"
+            <div onclick="window.location.href='recipes/biryani.php';"
                 class="product text-center col-lg-3 col-md-4 col-12 card ">
                 <img class="img-fluid mb-3" src="chicken_biryani.jpg" alt=""
                     style="height: 400px;width: 400px; border-radius: 20px;">
@@ -176,7 +176,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='momo.html';" class="product text-center col-lg-3 col-md-4 col-12 card">
+            <div onclick="window.location.href='recipes/momo.php';" class="product text-center col-lg-3 col-md-4 col-12 card">
                 <img class="img-fluid mb-3" src="momo.jpg" alt=""
                     style="height: 400px;width: 400px;  border-radius: 20px;">
                 <div class="star">
@@ -191,7 +191,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='sushi.html';" class="product text-center col-lg-3 col-md-4 col-12 card">
+            <div onclick="window.location.href='recipes/sushi.php';" class="product text-center col-lg-3 col-md-4 col-12 card">
                 <img class="img-fluid mb-3" src="sushi.jpg" alt=""
                     style="height: 400px;width: 400px; border-radius: 20px;">
                 <div class="star">
@@ -206,7 +206,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='lobster.html';"
+            <div onclick="window.location.href='recipes/lobster.php';"
                 class="product text-center col-lg-3 col-md-4 col-12 card">
                 <img class="img-fluid mb-3" src="lobster.jpg" alt=""
                     style="height: 400px;width: 400px; border-radius: 20px;">
@@ -222,7 +222,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='modak.html'" class="product text-center col-lg-3 col-md-4 col-12 card">
+            <div onclick="window.location.href='recipes/modak.php'" class="product text-center col-lg-3 col-md-4 col-12 card">
                 <img class="img-fluid mb-3" src="modak.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
                 <div class="star">
@@ -237,7 +237,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='gajar_ka_halwa.html'"
+            <div onclick="window.location.href='recipes/gajar_ka_halwa.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card">
                 <img class="img-fluid mb-3" src="gajar ka halwa.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
@@ -253,7 +253,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='kheer.html'" class="product text-center col-lg-3 col-md-4 col-12 card">
+            <div onclick="window.location.href='recipes/kheer.php'" class="product text-center col-lg-3 col-md-4 col-12 card">
                 <img class="img-fluid mb-3" src="kheer.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
                 <div class="star">
@@ -268,7 +268,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='pancake.html'"
+            <div onclick="window.location.href='recipes/pancake.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card">
                 <img class="img-fluid mb-3" src="pan cake.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
@@ -284,7 +284,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='fishfry.html'"
+            <div onclick="window.location.href='recipes/fishfry.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card">
                 <img class="img-fluid mb-3" src="fish_fry.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
@@ -300,7 +300,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='fishtikka.html'"
+            <div onclick="window.location.href='recipes/fishtikka.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card ">
                 <img class="img-fluid mb-3" src="fish_tikka.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
@@ -316,7 +316,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='fishbiryani.html'"
+            <div onclick="window.location.href='recipes/fishbiryani.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card">
                 <img class="img-fluid mb-3" src="fish_biryani.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
@@ -332,7 +332,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='fishcurry.html'"
+            <div onclick="window.location.href='recipes/fishcurry.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card ">
                 <img class="img-fluid mb-3" src="fish_curry.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
@@ -348,7 +348,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='paneerkorma.html'"
+            <div onclick="window.location.href='recipes/paneerkorma.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card">
                 <img class="img-fluid mb-3" src="panner.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
@@ -364,7 +364,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='paneertikka.html'"
+            <div onclick="window.location.href='recipes/paneertikka.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card ">
                 <img class="img-fluid mb-3" src="Fish/panner_tikka.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
@@ -380,7 +380,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='paneerbutter.html'"
+            <div onclick="window.location.href='recipes/paneerbutter.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card">
                 <img class="img-fluid mb-3" src="Fish/panner_butter_masala.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
@@ -396,7 +396,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='paneerpasanda.html'"
+            <div onclick="window.location.href='recipes/paneerpasanda.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card ">
                 <img class="img-fluid mb-3" src="paneerpasanda.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
@@ -413,7 +413,7 @@
                 <button class="buy-btn">View Recipie</button>
             </div>
             <div id="myProducts" class="row mx-auto container-fluid row">
-            <div onclick="window.location.href='chickenwing.html'"
+            <div onclick="window.location.href='recipes/chickenwing.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card">
                 <img class="img-fluid mb-3" src="Fish/chicken wing.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
@@ -429,7 +429,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='garlicbutter.html';"
+            <div onclick="window.location.href='recipes/garlicbutter.php';"
                 class="product text-center col-lg-3 col-md-4 col-12 card ">
                 <img class="img-fluid mb-3" src="garlic_butter_chicken.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
@@ -445,7 +445,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='grilledchicken.html'"
+            <div onclick="window.location.href='recipes/grilledchicken.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card">
                 <img class="img-fluid mb-3" src="Fish/grilled chicken.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
@@ -461,7 +461,7 @@
 
                 <button class="buy-btn">View Recipie</button>
             </div>
-            <div onclick="window.location.href='poachedchicken.html'"
+            <div onclick="window.location.href='recipes/poachedchicken.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card ">
                 <img class="img-fluid mb-3" src="poached_chicken.webp" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
@@ -506,10 +506,10 @@
             <div class="footer-one col-lg-3 col-md-6 col-12 mb-3">
                 <h5 class="pb-2">Featured</h5>
                 <ul class="text-uppercase list-unstyled">
-                    <li><a href="paneer.html">Panner</a></li>
-                    <li><a href="chicken.html">Chicken</a></li>
-                    <li><a href="fish.html">Fish</a></li>
-                    <li><a href="shop.html">Exlpore More</a></li>
+                    <li><a href="paneer.php">Panner</a></li>
+                    <li><a href="chicken.php">Chicken</a></li>
+                    <li><a href="fish.php">Fish</a></li>
+                    <li><a href="shop.php">Exlpore More</a></li>
 
                 </ul>
             </div>
