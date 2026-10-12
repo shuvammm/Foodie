@@ -1,0 +1,31 @@
+name: PHP validation
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [refactor/organize-php-recipes]
+
+jobs:
+  php-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+      - name: Lint every PHP file
+        shell: bash
+        run: |
+          set -euo pipefail
+          mapfile -t files < <(find . -type f -name '*.php' -not -path './.git/*' | sort)
+          if [ "${#files[@]}" -eq 0 ]; then
+            echo "No PHP files found"
+            exit 1
+          fi
+          for file in "${files[@]}"; do
+            php -l "$file"
+          done
+          echo "Successfully linted ${#files[@]} PHP files."
