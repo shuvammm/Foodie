@@ -7,7 +7,7 @@ Foodie is a PHP-backed recipe website. The original application remains under `i
 - Recipe detail pages are grouped in `img/recipes/` and use the `.php` extension.
 - Former recipe `.html` URLs now contain static HTML redirects to the new PHP pages. These work even when the web server serves `.html` files as static content.
 - The homepage and category/shop pages link directly to the new recipe PHP pages.
-- Existing images, CSS, JavaScript, login/register pages, and database files remain at their current paths in this staged migration to avoid breaking relative asset references.
+- Images are grouped under `img/assets/images/`: `recipes/`, `banners/`, `blog/`, `branding/`, `pages/`, `profiles/`, and `ui/`. PHP, HTML, and CSS image references have been updated for the new paths. CSS, JavaScript, login/register pages, and database files remain in their existing locations.
 
 ## Run locally
 
@@ -20,4 +20,4 @@ Foodie is a PHP-backed recipe website. The original application remains under `i
 
 - PHP is required for recipe pages and database-backed pages; the old HTML URLs are static redirects.
 - Database setup remains defined by the existing SQL files under `img/sql/`; review the existing database configuration before testing login/register functionality.
-- This branch focuses on safe recipe migration and link updates. A later pass can consolidate repeated navigation/footer markup and move assets after all references are verified.
+- This branch focuses on recipe migration, organized image assets, and updated local image references. The website should still be tested in a PHP-capable local server before merging.
