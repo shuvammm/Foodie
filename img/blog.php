@@ -214,7 +214,7 @@ header {
     </div>
     <div class="item-2">
       <div class="card">
-        <div class="thumb" style="background-image: url(healthy_assets/images/banners/food.jpg);"></div>
+        <div class="thumb" style="background-image: url(assets/images/banners/healthy_food.jpg);"></div>
         <article>
           <h1>Why Are Healthy Eating Habits Important?</h1>
           <p>A Healthy Diet Can Help Prevent Disease</p>
@@ -296,7 +296,7 @@ Stay hydrated: Drink plenty of water throughout the day to keep your body functi
         <div class="col-lg-4">
             <div class="card_rating">
                 <div class="face front-face">
-                    <img src="php/assets/images/profiles/profile1.jpg"
+                    <img src="assets/images/profiles/profile1.jpg"
                         alt="" class="profile">
                     <div class="pt-3 text-uppercase name">
                         Mike
@@ -351,7 +351,7 @@ Stay hydrated: Drink plenty of water throughout the day to keep your body functi
         <div class="col-lg-4">
             <div class="card_rating">
                 <div class="face front-face">
-                    <img src="php/assets/images/profiles/profile2.jpg"
+                    <img src="assets/images/profiles/profile2.jpg"
                         alt="" class="profile">
                     <div class="pt-3 text-uppercase name">
                         Issac Maxwell
@@ -383,7 +383,7 @@ Stay hydrated: Drink plenty of water throughout the day to keep your body functi
       <div class="col-lg-4">
           <div class="card_rating">
               <div class="face front-face">
-                  <img src="php/assets/images/profiles/profile3.jpg"
+                  <img src="assets/images/profiles/profile3.jpg"
                       alt="" class="profile">
                   <div class="pt-3 text-uppercase name">
                       Robert Garrison
@@ -502,10 +502,10 @@ Stay hydrated: Drink plenty of water throughout the day to keep your body functi
             <!--<div class="footer-one col-lg-3 col-md-6 col-12">
                 <h5 class="pb-2">Instagram</h5>
                 <div class="row">
-                    <img class="img-fluid w-25 h-100 m-2" src="insta/1.jpg" alt="">
-                    <img class="img-fluid w-25 h-100 m-2" src="insta/3.jpg" alt="">
-                    <img class="img-fluid w-25 h-100 m-2" src="insta/5.jpg" alt="">
-                    <img class="img-fluid w-25 h-100 m-2" src="insta/4.jpg" alt="">
+                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog/blog_img1.jpg" alt="">
+                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog/blog_img2.jpg" alt="">
+                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog/blog_img3.jpg" alt="">
+                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog/blog_img4.jpg" alt="">
                 </div>
             </div>-->
         </div>
