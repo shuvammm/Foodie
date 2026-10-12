@@ -1,5 +1,14 @@
-<?php
-// Backward-compatible URL for the former HTML recipe page.
-header('Location: recipes/sushi.php', true, 301);
-exit;
-?>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="refresh" content="0;url=recipes/sushi.php">
+  <meta name="robots" content="noindex">
+  <title>Recipe moved</title>
+  <script>window.location.replace("recipes/sushi.php");</script>
+</head>
+<body>
+  <p>This recipe has moved. <a href="recipes/sushi.php">Open the recipe</a>.</p>
+</body>
+</html>
