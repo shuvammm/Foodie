@@ -98,7 +98,7 @@
     <section class="container sproduct my-5 pt-5"><!--container is used to remove the slider-->
         <div class="row mt-5">
             <div class="col-lg-5 col-md-12 col-12">
-                <img class="img-fluid w-100 pb-1" src="../Fish/chicken wing.jpg" id="MainImg"
+                <img class="img-fluid w-100 pb-1" src="../assets/images/recipes/chicken wing.jpg" id="MainImg"
                     alt=""><!--image -fluid is used for responsive-->
                 <div class="small-img-group"> <!--MainImg is used for javasc-->
                     <div class="small-img-col">

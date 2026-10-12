@@ -239,7 +239,7 @@
             </div>
             <div onclick="window.location.href='recipes/mixed_salad.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 ">
-                <img class="img-fluid mb-3" src="mixed assets/images/recipes/salad.jpg" alt=""
+                <img class="img-fluid mb-3" src="assets/images/recipes/mixed salad.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
                 <div class="star">
                     <i class="fa fa-star" aria-hidden="true"></i>
@@ -282,7 +282,7 @@
             </div>
             <div onclick="window.location.href='recipes/gajar_ka_halwa.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 ">
-                <img class="img-fluid mb-3" src="gajar ka halwa.jpg" alt=""
+                <img class="img-fluid mb-3" src="assets/images/recipes/gajar ka halwa.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
                 <div class="star">
                     <i class="fa fa-star" aria-hidden="true"></i>
@@ -312,7 +312,7 @@
                 <button class="buy-btn">View Recipie</button>
             </div>
             <div onclick="window.location.href='recipes/pancake.php'" class="product text-center col-lg-3 col-md-4 col-12 ">
-                <img class="img-fluid mb-3" src="pan cake.jpg" alt=""
+                <img class="img-fluid mb-3" src="assets/images/recipes/pan cake.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
                 <div class="star">
                     <i class="fa fa-star" aria-hidden="true"></i>

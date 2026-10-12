@@ -87,7 +87,7 @@
         <div id="myProducts" class="row mx-auto container-fluid row">
             <div onclick="window.location.href='recipes/chickenwing.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card">
-                <img class="img-fluid mb-3" src="Fish/chicken wing.jpg" alt=""
+                <img class="img-fluid mb-3" src="assets/images/recipes/chicken wing.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
                 <div class="star">
                     <i class="fa fa-star" aria-hidden="true"></i>
@@ -103,7 +103,7 @@
             </div>
             <div onclick="window.location.href='recipes/garlicbutter.php';"
                 class="product text-center col-lg-3 col-md-4 col-12 card ">
-                <img class="img-fluid mb-3" src="garlic_butter_assets/images/banners/chicken.jpg" alt=""
+                <img class="img-fluid mb-3" src="assets/images/recipes/garlic_butter_chicken.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
                 <div class="star">
                     <i class="fa fa-star" aria-hidden="true"></i>
@@ -119,7 +119,7 @@
             </div>
             <div onclick="window.location.href='recipes/grilledchicken.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card">
-                <img class="img-fluid mb-3" src="Fish/grilled assets/images/banners/chicken.jpg" alt=""
+                <img class="img-fluid mb-3" src="assets/images/recipes/grilled chicken.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
                 <div class="star">
                     <i class="fa fa-star" aria-hidden="true"></i>
