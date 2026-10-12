@@ -80,7 +80,7 @@
 	<!--------------------------------Nav Bar---------------------------------->
 	<nav class="navbar navbar-expand-lg navbar-light bg-white py-3 fixed-top"> <!--py means padding-->
 		<div class="container">
-			<img style="height: 40px; width: 40px; border: 2px solid red; border-radius: 50%;" src="assets/images/branding/logo.jpg" alt=""><span
+			<img style="height: 40px; width: 40px; border: 2px solid red; border-radius: 50%;" src="assets/images/logo.jpg" alt=""><span
 				style="margin-left: 7px; font-weight: bold;">Foodie </span><!--logo-->
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
 				aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -613,7 +613,7 @@
         <div class="row container mx-auto pt-5" style="display: flex;
         justify-content: space-between;">
             <div class="footer-one col-lg-3 col-md-6 col-12">
-                <img src="assets/images/branding/logo.jpg" alt=""
+                <img src="assets/images/logo.jpg" alt=""
                     style="height: 40px; width: 40px; border: 2px solid red; border-radius: 50%;">
                 <p class="pt-3">
                     Welcome , Namaste!!</p>
@@ -646,10 +646,10 @@
             <!--<div class="footer-one col-lg-3 col-md-6 col-12">
                 <h5 class="pb-2">Instagram</h5>
                 <div class="row">
-                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog/blog_img1.jpg" alt="">
-                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog/blog_img2.jpg" alt="">
-                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog/blog_img3.jpg" alt="">
-                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog/blog_img4.jpg" alt="">
+                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog_img1.jpg" alt="">
+                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog_img2.jpg" alt="">
+                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog_img3.jpg" alt="">
+                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog_img4.jpg" alt="">
                 </div>
             </div>-->
         </div>
@@ -658,7 +658,7 @@
             <div class="row container mx-auto" style="display: flex;
             justify-content: space-between;">
                 <div class="col-lg-3 col-md-6 col-12 mb-4">
-                    <img src="assets/images/ui/payment.png" alt="">
+                    <img src="assets/images/payment.png" alt="">
 
                 </div>
                 <div class="col-lg-3 col-md-6 col-12 text-nowrap mb-2">

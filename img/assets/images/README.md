@@ -1,13 +1,3 @@
-# Image assets
+# Foodie Image Assets
 
-All website images are grouped here by purpose.
-
-- `recipes/` — food and recipe-card images
-- `banners/` — homepage/category hero and background images
-- `blog/` — blog post images
-- `branding/` — site logo
-- `pages/` — contact-page images
-- `profiles/` — profile/avatar images
-- `ui/` — payment and interface graphics
-
-Image paths in pages are relative to the page location. Main pages in `img/` use `assets/images/...`; recipe pages in `img/recipes/` use `../assets/images/...`.
+All tracked website images are stored directly in this folder (`img/assets/images/`). Keep image filenames unique and update references in PHP, HTML, CSS, and JavaScript when adding or renaming an image.

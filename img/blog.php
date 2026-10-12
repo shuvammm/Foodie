@@ -156,7 +156,7 @@ header {
 
   <nav class="navbar navbar-expand-lg navbar-light bg-white py-3 fixed-top"> <!--py means padding-->
     <div class="container">
-      <img style="height: 40px; width: 40px; border: 2px solid red; border-radius: 50%;" src="assets/images/branding/logo.jpg" alt=""><span
+      <img style="height: 40px; width: 40px; border: 2px solid red; border-radius: 50%;" src="assets/images/logo.jpg" alt=""><span
         style="margin-left: 7px; font-weight: bold; ">Foodie </span><!--logo-->
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -205,7 +205,7 @@ header {
   <div class="band">
     <div class="item-1">
       <div class="card">
-        <div class="thumb" style="background-image: url(assets/images/banners/food_day.jpg);"></div>
+        <div class="thumb" style="background-image: url(assets/images/food_day.jpg);"></div>
         <article>
           <h1>International Food Day : 14th october</h1>
           <span>Observed by :All Un Member States</span>
@@ -214,7 +214,7 @@ header {
     </div>
     <div class="item-2">
       <div class="card">
-        <div class="thumb" style="background-image: url(assets/images/banners/healthy_food.jpg);"></div>
+        <div class="thumb" style="background-image: url(assets/images/healthy_food.jpg);"></div>
         <article>
           <h1>Why Are Healthy Eating Habits Important?</h1>
           <p>A Healthy Diet Can Help Prevent Disease</p>
@@ -226,7 +226,7 @@ header {
     </div>
     <div class="item-3">
       <div class="card">
-        <div class="thumb" style="background-image: url(assets/images/recipes/salad.jpg);"></div>
+        <div class="thumb" style="background-image: url(assets/images/salad.jpg);"></div>
         <article>
           <h1>Crispy Rice Salad with Cucumbers and Herbs</h1>
           <p>"This was insanely delicious. Full of flavor, texture, color. The crunchy cool cucumbers complement the red curry spice perfectly. Hubs and I LOVE rice already, so had to try this dish and it was a hit!" </p>
@@ -236,7 +236,7 @@ header {
     </div>
     <div class="item-4">
       <div class="card">
-        <div class="thumb" style="background-image: url(assets/images/blog/blog_img2.jpg);"></div>
+        <div class="thumb" style="background-image: url(assets/images/blog_img2.jpg);"></div>
         <article>
           <h1>Healthy Diet</h1>
           <p>A healthy routine incorporates habits that benefit your physical and mental well-being. Here are some key elements to consider: <br>
@@ -253,7 +253,7 @@ Stay hydrated: Drink plenty of water throughout the day to keep your body functi
     </div>
     <div class="item-5">
       <div class="card">
-        <div class="thumb" style="background-image: url(assets/images/blog/blog_img1.jpg);"></div>
+        <div class="thumb" style="background-image: url(assets/images/blog_img1.jpg);"></div>
         <article>
           <h1>Major Benefits of Cooking at Home</h1><br><br>
           <p>1.    Homemade food is hygienic<br><br>
@@ -269,7 +269,7 @@ Stay hydrated: Drink plenty of water throughout the day to keep your body functi
     </div>
     <div class="item-6">
       <div class="card">
-        <div class="thumb" style="background-image: url(assets/images/blog/blog_img3.jpg);"></div>
+        <div class="thumb" style="background-image: url(assets/images/blog_img3.jpg);"></div>
         <article>
           <h1>Is homemade food hygienic?</h1><br><br><br>
           <p>When you cook at home, you can better control cleanliness, food safety and hygiene. You can use paper towels, for example, to prevent cross-contamination and to reduce the risk of salmonella. In addition, you can check your food with a food thermometer to ensure your meat is cooked to a safe temperature</p>
@@ -280,7 +280,7 @@ Stay hydrated: Drink plenty of water throughout the day to keep your body functi
     </div>
     <div class="item-7">
       <div class="card">
-        <div class="thumb" style="background-image: url(assets/images/blog/blog_img4.jpg);"></div>
+        <div class="thumb" style="background-image: url(assets/images/blog_img4.jpg);"></div>
         <article>
           <h1>Easy recipes</h1><br><br>
           <p>Quick & Easy Recipes: Is your to-do list getting in the middle of your food dreams? Well, we've always believed that good food is not about long hours in the kitchen. Our quick and easy recipes are perfect for days when you are in no mood of elaborate cooking or to soothe away those untimely hunger pangs. Indulge your senses with these terribly easy recipes and surprise everyone. From rich dips to crisp bites and sinful sweets, our collection of quick & easy appetizers have you covered for any occasion.</p>
@@ -296,7 +296,7 @@ Stay hydrated: Drink plenty of water throughout the day to keep your body functi
         <div class="col-lg-4">
             <div class="card_rating">
                 <div class="face front-face">
-                    <img src="assets/images/profiles/profile1.jpg"
+                    <img src="assets/images/profile1.jpg"
                         alt="" class="profile">
                     <div class="pt-3 text-uppercase name">
                         Mike
@@ -351,7 +351,7 @@ Stay hydrated: Drink plenty of water throughout the day to keep your body functi
         <div class="col-lg-4">
             <div class="card_rating">
                 <div class="face front-face">
-                    <img src="assets/images/profiles/profile2.jpg"
+                    <img src="assets/images/profile2.jpg"
                         alt="" class="profile">
                     <div class="pt-3 text-uppercase name">
                         Issac Maxwell
@@ -383,7 +383,7 @@ Stay hydrated: Drink plenty of water throughout the day to keep your body functi
       <div class="col-lg-4">
           <div class="card_rating">
               <div class="face front-face">
-                  <img src="assets/images/profiles/profile3.jpg"
+                  <img src="assets/images/profile3.jpg"
                       alt="" class="profile">
                   <div class="pt-3 text-uppercase name">
                       Robert Garrison
@@ -469,7 +469,7 @@ Stay hydrated: Drink plenty of water throughout the day to keep your body functi
         <div class="row container mx-auto pt-5" style="display: flex;
         justify-content: space-between;">
             <div class="footer-one col-lg-3 col-md-6 col-12">
-                <img src="assets/images/branding/logo.jpg" alt=""
+                <img src="assets/images/logo.jpg" alt=""
                     style="height: 40px; width: 40px; border: 2px solid red; border-radius: 50%;">
                 <p class="pt-3">
                     Welcome , Namaste!!</p>
@@ -502,10 +502,10 @@ Stay hydrated: Drink plenty of water throughout the day to keep your body functi
             <!--<div class="footer-one col-lg-3 col-md-6 col-12">
                 <h5 class="pb-2">Instagram</h5>
                 <div class="row">
-                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog/blog_img1.jpg" alt="">
-                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog/blog_img2.jpg" alt="">
-                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog/blog_img3.jpg" alt="">
-                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog/blog_img4.jpg" alt="">
+                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog_img1.jpg" alt="">
+                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog_img2.jpg" alt="">
+                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog_img3.jpg" alt="">
+                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog_img4.jpg" alt="">
                 </div>
             </div>-->
         </div>
@@ -514,7 +514,7 @@ Stay hydrated: Drink plenty of water throughout the day to keep your body functi
             <div class="row container mx-auto" style="display: flex;
             justify-content: space-between;">
                 <div class="col-lg-3 col-md-6 col-12 mb-4">
-                    <img src="assets/images/ui/payment.png" alt="">
+                    <img src="assets/images/payment.png" alt="">
 
                 </div>
                 <div class="col-lg-3 col-md-6 col-12 text-nowrap mb-2">

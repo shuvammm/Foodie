@@ -31,7 +31,7 @@
     <!--------------------------------Nav Bar---------------------------------->
     <nav class="navbar navbar-expand-lg navbar-light bg-white py-3 fixed-top"> <!--py means padding-->
         <div class="container">
-            <img style="height: 40px; width: 40px; border: 2px solid red; border-radius: 50%;" src="assets/images/branding/logo.jpg"
+            <img style="height: 40px; width: 40px; border: 2px solid red; border-radius: 50%;" src="assets/images/logo.jpg"
                 alt=""><span style="margin-left: 7px;">Foodie </span><!--logo-->
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -87,7 +87,7 @@
         <div id="myProducts" class="row mx-auto container-fluid row">
             <div onclick="window.location.href='recipes/fishfry.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card">
-                <img class="img-fluid mb-3" src="assets/images/recipes/fish_fry.jpg" alt=""
+                <img class="img-fluid mb-3" src="assets/images/fish_fry.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
                 <div class="star">
                     <i class="fa fa-star" aria-hidden="true"></i>
@@ -103,7 +103,7 @@
             </div>
             <div onclick="window.location.href='recipes/fishtikka.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card ">
-                <img class="img-fluid mb-3" src="assets/images/recipes/fish_tikka.jpg" alt=""
+                <img class="img-fluid mb-3" src="assets/images/fish_tikka.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
                 <div class="star">
                     <i class="fa fa-star" aria-hidden="true"></i>
@@ -119,7 +119,7 @@
             </div>
             <div onclick="window.location.href='recipes/fishbiryani.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card">
-                <img class="img-fluid mb-3" src="assets/images/recipes/fish_biryani.jpg" alt=""
+                <img class="img-fluid mb-3" src="assets/images/fish_biryani.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
                 <div class="star">
                     <i class="fa fa-star" aria-hidden="true"></i>
@@ -135,7 +135,7 @@
             </div>
             <div onclick="window.location.href='recipes/fishcurry.php'"
                 class="product text-center col-lg-3 col-md-4 col-12 card ">
-                <img class="img-fluid mb-3" src="assets/images/recipes/fish_curry.jpg" alt=""
+                <img class="img-fluid mb-3" src="assets/images/fish_curry.jpg" alt=""
                     style="height: 400px; width: 400px; border-radius: 20px;">
                 <div class="star">
                     <i class="fa fa-star" aria-hidden="true"></i>
@@ -170,7 +170,7 @@
         <div class="row container mx-auto pt-5" style="display: flex;
         justify-content: space-between;">
             <div class="footer-one col-lg-3 col-md-6 col-12">
-                <img src="assets/images/branding/logo.jpg" alt=""
+                <img src="assets/images/logo.jpg" alt=""
                     style="height: 40px; width: 40px; border: 2px solid red; border-radius: 50%;">
                 <p class="pt-3">
                     Welcome , Namaste!!</p>
@@ -203,10 +203,10 @@
             <!--<div class="footer-one col-lg-3 col-md-6 col-12">
                 <h5 class="pb-2">Instagram</h5>
                 <div class="row">
-                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog/blog_img1.jpg" alt="">
-                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog/blog_img2.jpg" alt="">
-                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog/blog_img3.jpg" alt="">
-                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog/blog_img4.jpg" alt="">
+                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog_img1.jpg" alt="">
+                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog_img2.jpg" alt="">
+                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog_img3.jpg" alt="">
+                    <img class="img-fluid w-25 h-100 m-2" src="assets/images/blog_img4.jpg" alt="">
                 </div>
             </div>-->
         </div>
@@ -215,7 +215,7 @@
             <div class="row container mx-auto" style="display: flex;
             justify-content: space-between;">
                 <div class="col-lg-3 col-md-6 col-12 mb-4">
-                    <img src="assets/images/ui/payment.png" alt="">
+                    <img src="assets/images/payment.png" alt="">
 
                 </div>
                 <div class="col-lg-3 col-md-6 col-12 text-nowrap mb-2">
