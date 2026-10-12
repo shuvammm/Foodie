@@ -98,20 +98,20 @@
     <section class="container sproduct my-5 pt-5"><!--container is used to remove the slider-->
         <div class="row mt-5">
             <div class="col-lg-5 col-md-12 col-12">
-                <img class="img-fluid w-100 pb-1" src="../garlic_butter_../assets/images/banners/chicken.jpg" id="MainImg"
+                <img class="img-fluid w-100 pb-1" src="../assets/images/recipes/garlic_butter_chicken.jpg" id="MainImg"
                     alt=""><!--image -fluid is used for responsive-->
                 <div class="small-img-group"> <!--MainImg is used for javasc-->
                     <div class="small-img-col">
-                        <img src="../kid1_2.webp" width="100%" class="small-image" alt="">
+                        <img src="../assets/images/recipes/garlic_butter_chicken.jpg" width="100%" class="small-image" alt="">
                     </div>
                     <div class="small-img-col">
-                        <img src="../kid1_3.webp" width="100%" class="small-image" alt="">
+                        <img src="../assets/images/recipes/garlic_butter_chicken.jpg" width="100%" class="small-image" alt="">
                     </div>
                     <div class="small-img-col">
-                        <img src="../kid1_4.webp" width="100%" class="small-image" alt="">
+                        <img src="../assets/images/recipes/garlic_butter_chicken.jpg" width="100%" class="small-image" alt="">
                     </div>
                     <div class="small-img-col">
-                        <img src="../kid1_5.webp" width="100%" class="small-image" alt="">
+                        <img src="../assets/images/recipes/garlic_butter_chicken.jpg" width="100%" class="small-image" alt="">
                     </div>
                 </div>
             </div>
@@ -247,10 +247,10 @@
             <!--<div class="footer-one col-lg-3 col-md-6 col-12">
                 <h5 class="pb-2">Instagram</h5>
                 <div class="row">
-                    <img class="img-fluid w-25 h-100 m-2" src="../insta/1.jpg" alt="">
-                    <img class="img-fluid w-25 h-100 m-2" src="../insta/3.jpg" alt="">
-                    <img class="img-fluid w-25 h-100 m-2" src="../insta/5.jpg" alt="">
-                    <img class="img-fluid w-25 h-100 m-2" src="../insta/4.jpg" alt="">
+                    <img class="img-fluid w-25 h-100 m-2" src="../assets/images/blog/blog_img1.jpg" alt="">
+                    <img class="img-fluid w-25 h-100 m-2" src="../assets/images/blog/blog_img2.jpg" alt="">
+                    <img class="img-fluid w-25 h-100 m-2" src="../assets/images/blog/blog_img3.jpg" alt="">
+                    <img class="img-fluid w-25 h-100 m-2" src="../assets/images/blog/blog_img4.jpg" alt="">
                 </div>
             </div>-->
         </div>
